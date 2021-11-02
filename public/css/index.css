@@ -1,0 +1,8 @@
+.fondo{
+    background-color: #f0f0f0;
+}
+
+.imagen_cabecera{
+    object-fit: cover;
+    height: 150px;     
+}
